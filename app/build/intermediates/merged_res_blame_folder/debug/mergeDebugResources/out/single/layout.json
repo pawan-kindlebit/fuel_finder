@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.fuelfinder.app-mergeDebugResources-36:/layout/activity_main.xml",
+        "source": "com.fuelfinder.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-mergeDebugResources-36:/layout/bottom_sheet_pumps.xml",
+        "source": "com.fuelfinder.app-main-39:/layout/bottom_sheet_pumps.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-mergeDebugResources-36:/layout/item_suggestion.xml",
+        "source": "com.fuelfinder.app-main-39:/layout/item_suggestion.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-mergeDebugResources-36:/layout/item_station.xml",
+        "source": "com.fuelfinder.app-main-39:/layout/item_station.xml"
+    }
+]

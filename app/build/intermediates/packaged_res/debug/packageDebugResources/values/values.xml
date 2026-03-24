@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#E65100</color>
+    <color name="best_card_bg">#F1FFF4</color>
+    <color name="best_option_green">#2E7D32</color>
+    <color name="bg_screen">#F0F2F8</color>
+    <color name="brand_bpcl">#1565C0</color>
+    <color name="brand_hpcl">#2E7D32</color>
+    <color name="brand_iocl">#E53935</color>
+    <color name="brand_nayara">#0277BD</color>
+    <color name="brand_other">#4361EE</color>
+    <color name="brand_reliance">#6A1B9A</color>
+    <color name="brand_shell">#FFA000</color>
+    <color name="btn_search">#E65100</color>
+    <color name="card_bg">#FFFFFF</color>
+    <color name="divider">#E5E7EB</color>
+    <color name="error_bg">#FFEBEE</color>
+    <color name="error_text">#C62828</color>
+    <color name="price_color">#1A237E</color>
+    <color name="primary">#1A237E</color>
+    <color name="primary_dark">#0D1B6E</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="text_dark">#1A1A2E</color>
+    <color name="text_muted">#6B7280</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">FuelFinder</string>
+    <style name="AppBottomSheetStyle" parent="Widget.Material3.BottomSheet">
+        <item name="backgroundTint">@color/surface</item>
+        <item name="shapeAppearance">@style/RoundedBottomSheet</item>
+    </style>
+    <style name="BottomSheetStyle" parent="Theme.Material3.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/AppBottomSheetStyle</item>
+    </style>
+    <style name="RoundedBottomSheet" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSizeTopLeft">24dp</item>
+        <item name="cornerSizeTopRight">24dp</item>
+    </style>
+    <style name="Theme.FuelFinder" parent="Theme.Material3.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:windowBackground">@color/bg_screen</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:navigationBarColor">@color/surface</item>
+    </style>
+</resources>

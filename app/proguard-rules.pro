@@ -1,0 +1,3 @@
+-keep class com.fuelfinder.data.model.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*

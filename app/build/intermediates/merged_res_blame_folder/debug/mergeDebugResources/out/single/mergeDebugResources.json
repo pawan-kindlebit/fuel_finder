@@ -1,0 +1,106 @@
+[
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_ic_search.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/ic_search.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_suggestions_card.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_suggestions_card.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_dot_green.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_dot_green.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_hint_chip.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_hint_chip.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_ic_close.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_empty_card.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_empty_card.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/layout_item_station.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/layout/item_station.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_fab_fuel.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_fab_fuel.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_sheet_handle.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_sheet_handle.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_rank_circle.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_rank_circle.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_dot_red.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_dot_red.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_route_chip.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_route_chip.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_icon_circle.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_icon_circle.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_best_badge.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_best_badge.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_header_gradient.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_header_gradient.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/layout_bottom_sheet_pumps.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/layout/bottom_sheet_pumps.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_bottom_sheet.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_bottom_sheet.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/layout_activity_main.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_close_btn.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_close_btn.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_input_card.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_input_card.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/layout_item_suggestion.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/layout/item_suggestion.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_dot_white.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/dot_white.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_empty_circle.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_empty_circle.xml"
+    },
+    {
+        "merged": "com.fuelfinder.app-debug-37:/drawable_bg_brand_pill.xml.flat",
+        "source": "com.fuelfinder.app-main-39:/drawable/bg_brand_pill.xml"
+    }
+]
