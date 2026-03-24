@@ -18,11 +18,10 @@ Fuel Finder is a mobile application that helps users quickly locate nearby fuel 
 
 ##  Tech Stack
 
-- Frontend: Mobile App (Flutter / Android / iOS)
+- Frontend: Mobile App ( Android )
 - Architecture: MVVM
 - Maps & Location: Google Maps API / MapKit
-- Backend: REST API / Firebase
-- Database: Local DB / Cloud DB
+
 
 ---
 
@@ -71,17 +70,6 @@ Fuel Finder is a mobile application that helps users quickly locate nearby fuel 
 
 - Fuel price comparison
 - User reviews
-- Notifications
-- Offline mode
 
----
-
-##  License
-
-MIT License
-
----
-
-##  Author
 
 Pawan
